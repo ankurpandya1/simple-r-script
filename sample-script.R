@@ -14,3 +14,4 @@ data <- read.csv('data.csv')
 # calculate summary statistics --------------------------------
 lapply(data, summary)
 
+#added a worthless update
